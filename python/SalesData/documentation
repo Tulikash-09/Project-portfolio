@@ -1,1 +1,15 @@
+Project: Exploratory Data Analysis with Pandas
+
+Dataset: 
+
+Description: Performed a reasoned Statistical Analysis of sales data using Pandas/Python.
+Monthly sales data was collected from different CSV files and merged into a single CSV file for easier data analysis. During the Data Cleaning process, unwanted data entries such as NaN values (dropna) and incorrect data entries were removed. Additionally, the Data Formatting (astype, to_datetime) was utilized to fix any data type issues within the DataFrame series. Lastly, to perform accurate analysis, the dataset was augmented (str.split, dt.hour) with additional columns.
+
+The following questions were answered and plotted throughout the analysis:
+1. What was the best month for sales? How much was earned that month?
+2. What city sold the most product?
+3. What time should we display advertisements to maximize the likelihood of customers buying products?
+4. What products are most often sold together?
+5. What product sold the most? Why do you think it sold the most?
+
 
