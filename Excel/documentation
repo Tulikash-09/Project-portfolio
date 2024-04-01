@@ -1,16 +1,1 @@
-Project: Sales Analysis with MS Excel
-
-DataSet:
-
-Description: A well-curated product dataset containing customer information and their coffee orders, along with details of the coffee products they have purchased.
-I used advanced Excel functions to analyze and visualize customer purchase data. By employing XLOOKUP and row/column indexing, an Orders table was created from multiple data sources. Three Pivot Tables were then generated from this table to summarize the data, and visualizations were created for insights.
-To improve usability, four slicers were added for easy data filtering. These slicers, combined with the visualizations, form an interactive dashboard. 
-
-During the analysis, I examined and graphed the following (KPIs):
-
-1. Total Sales Over Time (Sliced over Monthly data)
-2. Country-wise Sales Analysis 
-3. Top 5 Customer Purchase Analysis
-4. Enhanced Dashboard Interactivity with Filters: Roast Type, Loyalty Card, and Bag Size
-
-This project showcases Excel's capabilities in data analysis and visualization, demonstrating its effectiveness in deriving insights from complex datasets.
+Excel Project Folder
