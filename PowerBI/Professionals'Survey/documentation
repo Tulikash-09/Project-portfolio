@@ -1,1 +1,16 @@
+Project: Survey Data Analysis with Power BI
+
+Dataset:
+
+Description: A survey dataset collected from around 700 professionals was used to analyze different perspectives of a professional's work life. (Thanks to Alex Freberg!)
+The data underwent validation, data-type standardization, and cleaning processes to eliminate unwanted data, resulting in a dataset that can be used. Two calculated columns (DAX, Conditional Formatting) were created to tailor the data for a specific visualization. Six distinct visualizations (stack-bar chart, piechart, heatmap, etc.) were developed to demonstrate professional data analysis.
+
+During the analysis, I examined and graphed the following (KPIs): 
+
+1. Salary Range of Professionals ( across Job Title, Gender, Age, Country, etc.)
+2. Popularity of Programming Languages 
+3. Salary Satisfaction
+4. Breaking into Tech: Difficulty Level 
+5. Work-life Balance
+
 
