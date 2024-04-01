@@ -1,1 +1,9 @@
+Project: DBMS Project with SQL
+
+Business Ques:
+
+Description: Designed and Implemented Relational Database Schema for Pizzeria, a one-stop shop for pizza lovers. The database offers simple functions to manage stock and delivery logistics. The main functionalities are: 
+- Order Management: The proposed model comprises entities and relationships that facilitate the proper management of customer orders. It includes order details, customer information, and order status tracking.
+- Inventory Control: The E/R modeling ensures efficient inventory control by monitoring ingredient quantities, managing stock levels, and predicting ingredient needs based on orders.
+- Delivery Logistics: It also includes entities and relationships for delivery logistics management, such as driver assignments and order tracking for delivery orders.
 
