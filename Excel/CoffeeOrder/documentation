@@ -1,17 +1,18 @@
-Project: Sales Analysis with MS Excel
+Project: Excel-based Coffee Purchase Analysis
 
 DataSet:
 
-Description: A well-curated product dataset containing customer information and their coffee orders, along with details of the coffee products they have purchased.
-I used advanced Excel functions to analyze and visualize customer purchase data. By employing XLOOKUP and row/column indexing, an Orders table was created from multiple data sources. Three Pivot Tables were then generated from this table to summarize the data, and visualizations were created for insights.
-To improve usability, four slicers were added for easy data filtering. These slicers, combined with the visualizations, form an interactive dashboard. 
+Description: This project involves analyzing a well-curated product dataset containing customer information and their coffee orders. Using advanced Excel functions, I conducted a comprehensive analysis and visualization of customer purchase data.
 
-During the analysis, I examined and graphed the following (KPIs):
+Key Performance Indicators (KPIs) Focused On:
 
-1. Total Sales Over Time (Sliced over Monthly data)
-2. Country-wise Sales Analysis 
-3. Top 5 Customer Purchase Analysis
-4. Enhanced Dashboard Interactivity with Filters: Roast Type, Loyalty Card, and Bag Size
+1. Total Sales Over Time: Utilizing monthly data, I analyzed the total sales trend over time to identify patterns and fluctuations.
 
-This project showcases Excel's capabilities in data analysis and visualization, demonstrating its effectiveness in deriving insights from complex datasets.
+2. Country-wise Sales Analysis: I conducted an analysis to determine sales performance across different countries, providing insights into regional trends and preferences.
+
+3. Top 5 Customer Purchase Analysis: I identified and analyzed the top 5 customers based on their purchase behavior, offering valuable insights into customer preferences and loyalty.
+
+4. Enhanced Dashboard Interactivity: I enhanced the dashboard's usability by adding filters for roast type, loyalty card status, and bag size, allowing for easy data filtering and exploration.
+
+Overall, this project showcases Excel's capabilities in data analysis and visualization, demonstrating its effectiveness in deriving insights from complex datasets. The interactive dashboard provides a user-friendly interface for exploring and understanding the data.
 
